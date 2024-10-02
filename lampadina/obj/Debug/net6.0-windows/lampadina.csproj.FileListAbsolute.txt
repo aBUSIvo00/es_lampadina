@@ -1,0 +1,17 @@
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.Form1.resources
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.Properties.Resources.resources
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.csproj.GenerateResource.cache
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.AssemblyInfoInputs.cache
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.AssemblyInfo.cs
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.csproj.CoreCompileInputs.cache
+C:\Users\busi.20132\Desktop\lampadina\bin\Debug\net6.0-windows\lampadina.exe
+C:\Users\busi.20132\Desktop\lampadina\bin\Debug\net6.0-windows\lampadina.deps.json
+C:\Users\busi.20132\Desktop\lampadina\bin\Debug\net6.0-windows\lampadina.runtimeconfig.json
+C:\Users\busi.20132\Desktop\lampadina\bin\Debug\net6.0-windows\lampadina.dll
+C:\Users\busi.20132\Desktop\lampadina\bin\Debug\net6.0-windows\lampadina.pdb
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.dll
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\refint\lampadina.dll
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.pdb
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\lampadina.genruntimeconfig.cache
+C:\Users\busi.20132\Desktop\lampadina\obj\Debug\net6.0-windows\ref\lampadina.dll
